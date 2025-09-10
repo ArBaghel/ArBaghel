@@ -28,16 +28,16 @@
 
 ## 📌 Highlight Projects  
 
-- 🖼️ [**Computer Vision Project**](https://github.com/your-github/computer-vision-project)  
+- 🖼️ [**Computer Vision Project**](https://github.com/ArBaghel/Object-Detection)  
    *Object detection & recognition using CNNs + OpenCV*  
 
-- 📊 [**Analytics Dashboard**](https://github.com/your-github/analytics-dashboard)  
-   *Interactive data visualization with Tableau/PowerBI*  
+- 📊 [**Exploratory Data Analysis**](https://github.com/ArBaghel/Exploratory-Data-Analysis)  
+   *Unvealing the hidden insights with the help EDA*  
 
 - 🤖 [**ML Predictive Models**](https://github.com/your-github/ml-predictive-models)  
    *Built regression & classification models for real-world datasets*  
 
-👉 More in my **[Pinned Repositories](https://github.com/your-github?tab=repositories)**  
+👉 More in my **[Pinned Repositories](https://github.com/ArBaghel?tab=repositories)**  
 
 ---
 
