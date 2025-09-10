@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/your-github/your-github/main/Resume.pdf" target="_blank">
+  <a href="https://github.com/ArBaghel/ArBaghel/blob/main/Resume(Aditya%20Singh%20Baghel).pdf">
     <img src="https://img.shields.io/badge/📄 View My Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
