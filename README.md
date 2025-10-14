@@ -34,7 +34,7 @@
 - 📊 [**Exploratory Data Analysis**](https://github.com/ArBaghel/Exploratory-Data-Analysis)  
    *Unvealing the hidden insights with the help EDA*  
 
-- 🤖 [**ML Predictive Models**](https://github.com/your-github/ml-predictive-models)  
+- 🤖 [**ML Predictive Models**](https://github.com/ArBaghel/Machine-Learning)  
    *Built regression & classification models for real-world datasets*  
 
 👉 More in my **[Pinned Repositories](https://github.com/ArBaghel?tab=repositories)**  
