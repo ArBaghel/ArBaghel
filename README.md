@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ArBaghel/ArBaghel/blob/main/Resume(Aditya%20Singh%20Baghel).pdf">
+  <a href="https://github.com/ArBaghel/ArBaghel/blob/main/Aditya%20classic%20resume%20(1).pdf">
     <img src="https://img.shields.io/badge/📄 View My Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
