@@ -28,13 +28,13 @@
 
 ## 📌 Highlight Projects  
 
-- 🖼️ [**Computer Vision Project**](https://github.com/ArBaghel/Object-Detection)  
+🔹 🖼️ [**Computer Vision Project**](https://github.com/ArBaghel/Object-Detection)  
    *Object detection & recognition using CNNs + OpenCV*  
 
-- 📊 [**Exploratory Data Analysis**](https://github.com/ArBaghel/Exploratory-Data-Analysis)  
+🔹 📊 [**Exploratory Data Analysis**](https://github.com/ArBaghel/Exploratory-Data-Analysis)  
    *Unvealing the hidden insights with the help EDA*  
 
-- 🤖 [**ML Predictive Models**](https://github.com/ArBaghel/Machine-Learning)  
+🔹 🤖 [**ML Predictive Models**](https://github.com/ArBaghel/Machine-Learning)  
    *Built regression & classification models for real-world datasets*  
 
 👉 More in my **[Pinned Repositories](https://github.com/ArBaghel?tab=repositories)**  
