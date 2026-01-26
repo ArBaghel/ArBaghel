@@ -19,10 +19,10 @@
 ---
 
 ## 🚀 Quick Snapshot  
-- 🔹 Skilled in **Python, SQL, ML, and Computer Vision frameworks**  
-- 🔹 Strong foundation in **data analysis, dashboards, and predictive models**  
-- 🔹 Hands-on with **TensorFlow, PyTorch, OpenCV, Tableau, PowerBI**  
-- 🔹 Seeking **internships / opportunities** to apply data & AI at scale  
+🔹 Skilled in **Python, SQL, ML, and Computer Vision frameworks**  
+🔹 Strong foundation in **data analysis, dashboards, and predictive models**  
+🔹 Hands-on with **TensorFlow, PyTorch, OpenCV, Tableau, PowerBI**  
+🔹 Seeking **internships / opportunities** to apply data & AI at scale  
 
 ---
 
