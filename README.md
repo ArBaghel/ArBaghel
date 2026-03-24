@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,40:0B1E3D,80:0D3B6E,100:1565C0&height=220&section=header&text=Aditya%20Singh%20Baghel&fontSize=50&fontColor=E3F2FD&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=56&descColor=42A5F5&descSize=17"/>
 
-<!-- TYPING SVG — must be plain markdown, NOT inside any HTML block -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Python+%7C+My+Primary+Language+%F0%9F%90%8D;Data+Analytics+%26+Predictive+Modeling+%F0%9F%93%8A;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Computer+Vision+%E2%80%94+CNNs+%26+OpenCV+%F0%9F%91%81%EF%B8%8F;B.Tech+CS+%E2%80%94+Data+Analytics+Specialization+%F0%9F%8E%93)](https://github.com/ArBaghel)
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Data+Analytics+%26+Predictive+Modeling;Machine+Learning+%26+Deep+Learning;Computer+Vision+%E2%80%94+CNNs+%26+OpenCV;B.Tech+CS+%E2%80%94+Data+Analytics+Specialization)](https://github.com/ArBaghel)
 
 <div align="center">
 
@@ -15,27 +15,27 @@
 
 ---
 
-## 🧬 `aditya_singh_baghel.py`
+## `aditya_singh_baghel.py`
 
 ```python
 class DataScientist:
     name       = "Aditya Singh Baghel"
     degree     = "B.Tech CS  |  Data Analytics Specialization"
-    location   = "India  🇮🇳"
-    primary    = "Python  🐍"
+    location   = "India"
+    primary    = "Python"
     interests  = ["Machine Learning", "Computer Vision", "Predictive Modeling"]
     stack      = ["TensorFlow", "PyTorch", "OpenCV", "Pandas", "SQL", "Tableau"]
     portfolio  = "arbaghel.github.io/PortFolio-1/"
     resume     = "github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf"
-    goal       = "AI / Data Science internship  🚀"
+    goal       = "AI / Data Science internship"
 
     def current_focus(self) -> str:
-        return "Building intelligent systems that turn raw data into decisions 📊"
+        return "Building intelligent systems that turn raw data into decisions"
 ```
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -58,7 +58,7 @@ class DataScientist:
 
 ---
 
-## 💻 LeetCode Progress
+## LeetCode Progress
 
 <div align="center">
 
@@ -68,11 +68,11 @@ class DataScientist:
 
 <br/><br/>
 
-### 🏅 LeetCode Badges
+### LeetCode Badges
 
 <table><tr>
 
-<!-- ✅ EARNED -->
+<!-- EARNED -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2024"/>
@@ -81,7 +81,7 @@ class DataScientist:
 
 <!-- PASTE NEW EARNED BADGES HERE — copy one <td> block and replace the src URL and label -->
 
-<!-- 🔒 100 Days 2024
+<!-- 100 Days 2024
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72"/>
@@ -89,7 +89,7 @@ class DataScientist:
 </td>
 -->
 
-<!-- 🔒 50 Days 2025
+<!-- 50 Days 2025
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="72"/>
@@ -97,7 +97,7 @@ class DataScientist:
 </td>
 -->
 
-<!-- 🔒 100 Days 2025
+<!-- 100 Days 2025
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="72"/>
@@ -105,7 +105,7 @@ class DataScientist:
 </td>
 -->
 
-<!-- 🔒 SQL 50
+<!-- SQL 50
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/lg_sql50.png" width="72"/>
@@ -113,7 +113,7 @@ class DataScientist:
 </td>
 -->
 
-<!-- 🔒 Top Interview 150
+<!-- Top Interview 150
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/lg_top_interview.png" width="72"/>
@@ -121,7 +121,7 @@ class DataScientist:
 </td>
 -->
 
-<!-- 🔒 LeetCode 75
+<!-- LeetCode 75
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/lg_leetcode75.png" width="72"/>
@@ -129,19 +129,19 @@ class DataScientist:
 </td>
 -->
 
-<!-- 🔒 Knight
+<!-- Knight
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/knight.png" width="72"/>
-  </a><br/><sub><b>Knight 🗡️</b></sub>
+  </a><br/><sub><b>Knight</b></sub>
 </td>
 -->
 
-<!-- 🔒 Guardian
+<!-- Guardian
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/guardian.png" width="72"/>
-  </a><br/><sub><b>Guardian 🔷</b></sub>
+  </a><br/><sub><b>Guardian</b></sub>
 </td>
 -->
 
@@ -151,7 +151,7 @@ class DataScientist:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -175,11 +175,11 @@ class DataScientist:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**🐍 Primary Language**
+**Primary Language**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=050A18)
 
@@ -212,7 +212,7 @@ class DataScientist:
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
@@ -226,4 +226,4 @@ class DataScientist:
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:0D3B6E,100:050A18&height=110&section=footer&text=⭐%20Star%20if%20you%20found%20this%20helpful!&fontSize=15&fontColor=E3F2FD&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:0D3B6E,100:050A18&height=110&section=footer&text=Star%20if%20you%20found%20this%20helpful!&fontSize=15&fontColor=E3F2FD&animation=twinkling&fontAlignY=65"/>
