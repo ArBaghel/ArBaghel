@@ -24,7 +24,7 @@ class DataScientist:
     location   = "India"
     primary    = "Python"
     interests  = ["Machine Learning", "Computer Vision", "Predictive Modeling"]
-    stack      = ["TensorFlow", "PyTorch", "OpenCV", "Pandas", "SQL", "Tableau"]
+    stack      = [ "PyTorch","Scikit Learn", OpenCV", "Pandas", "SQL", "Tableau"]
     portfolio  = "arbaghel.github.io/PortFolio-1/"
     resume     = "github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf"
     goal       = "AI / Data Science internship"
