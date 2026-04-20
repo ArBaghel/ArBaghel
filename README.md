@@ -24,7 +24,7 @@ class DataScientist:
     location   = "India"
     primary    = "Python"
     interests  = ["Machine Learning", "Computer Vision", "Predictive Modeling"]
-    stack      = [ "PyTorch","Scikit Learn", OpenCV", "Pandas", "SQL", "Tableau"]
+    stack      = ["PyTorch", "scikit-learn", "OpenCV", "Pandas", "SQL", "Tableau"]
     portfolio  = "arbaghel.github.io/PortFolio-1/"
     resume     = "github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf"
     goal       = "AI / Data Science internship"
@@ -40,10 +40,10 @@ class DataScientist:
 <div align="center">
 
 <a href="https://github.com/ArBaghel">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=ArBaghel&show_icons=true&theme=github_dark&hide_border=true&title_color=42A5F5&icon_color=42A5F5&text_color=CDD6F4&bg_color=050A18&include_all_commits=true&count_private=true"/>
+  <img height="172" src="https://github-readme-stats.vercel.app/api?username=ArBaghel&show_icons=true&theme=github_dark&hide_border=true&title_color=42A5F5&icon_color=42A5F5&text_color=CDD6F4&bg_color=050A18&count_private=true"/>
 </a>&nbsp;
 <a href="https://github.com/ArBaghel">
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArBaghel&layout=donut&hide=c%2B%2B&theme=github_dark&hide_border=true&title_color=42A5F5&text_color=CDD6F4&bg_color=050A18&langs_count=5"/>
+  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArBaghel&layout=donut&hide=c%2B%2B%2CJupyter%20Notebook&theme=github_dark&hide_border=true&title_color=42A5F5&text_color=CDD6F4&bg_color=050A18&langs_count=5"/>
 </a>
 
 <br/>
@@ -155,21 +155,69 @@ class DataScientist:
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ArBaghel/Object-Detection">🎯 Object Detection</a></h3>
+<p>Real-time object detection system using deep learning and computer vision. Detects and classifies multiple objects in images and video streams with bounding box annotations using CNN-based architectures.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/CNN-42A5F5?style=flat-square&labelColor=050A18"/>
+</p>
 <a href="https://github.com/ArBaghel/Object-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArBaghel&repo=Object-Detection&theme=github_dark&hide_border=true&title_color=42A5F5&text_color=CDD6F4&icon_color=42A5F5&bg_color=050A18"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/View%20Repo-050A18?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ArBaghel/Machine-Learning">🤖 Machine Learning</a></h3>
+<p>A curated collection of ML algorithms and projects — from regression and classification to clustering and ensemble methods. Each implementation is clean, well-commented and backed by Jupyter notebooks.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white&labelColor=050A18"/>
+</p>
 <a href="https://github.com/ArBaghel/Machine-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArBaghel&repo=Machine-Learning&theme=github_dark&hide_border=true&title_color=42A5F5&text_color=CDD6F4&icon_color=42A5F5&bg_color=050A18"/>
+  <img src="https://img.shields.io/badge/View%20Repo-050A18?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</td>
 
-<br/>
+</tr>
+<tr>
 
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ArBaghel/Exploratory-Data-Analysis">📊 Exploratory Data Analysis</a></h3>
+<p>End-to-end EDA projects uncovering hidden patterns, trends, and insights from real-world datasets using statistical analysis and rich visualizations to support data-driven decision making.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0B5394?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/Seaborn-4EABE4?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
+</p>
 <a href="https://github.com/ArBaghel/Exploratory-Data-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArBaghel&repo=Exploratory-Data-Analysis&theme=github_dark&hide_border=true&title_color=42A5F5&text_color=CDD6F4&icon_color=42A5F5&bg_color=050A18"/>
-</a>&nbsp;
-<a href="https://github.com/ArBaghel/LeetCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArBaghel&repo=LeetCode&theme=github_dark&hide_border=true&title_color=FFA116&text_color=CDD6F4&icon_color=FFA116&bg_color=050A18"/>
+  <img src="https://img.shields.io/badge/View%20Repo-050A18?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</td>
+
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ArBaghel/LeetCode">🟡 LeetCode Solutions</a></h3>
+<p>Well-structured Python solutions to LeetCode problems covering arrays, strings, dynamic programming, graphs and trees — each solution includes optimal time and space complexity analysis.</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/DSA-FFA116?style=flat-square&labelColor=050A18"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=050A18"/>
+</p>
+<a href="https://github.com/ArBaghel/LeetCode">
+  <img src="https://img.shields.io/badge/View%20Repo-050A18?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -221,7 +269,7 @@ class DataScientist:
 [![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=050A18)](https://arbaghel.github.io/PortFolio-1/)&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf)&nbsp;
 [![Instagram](https://img.shields.io/badge/@ar__baghel04-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050A18)](https://www.instagram.com/ar_baghel04)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050A18)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050A18)](mailto:adityasinghbaghel@gmail.com)
 
 </div>
 
