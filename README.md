@@ -159,7 +159,7 @@ class DataScientist:
 <tr>
 
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ArBaghel/Object-Detection">🎯 Object Detection</a></h3>
+<h3><a href="https://github.com/ArBaghel/Object-Detection"> Object Detection</a></h3>
 <p>Real-time object detection system using deep learning and computer vision. Detects and classifies multiple objects in images and video streams with bounding box annotations using CNN-based architectures.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
@@ -173,7 +173,7 @@ class DataScientist:
 </td>
 
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ArBaghel/Machine-Learning">🤖 Machine Learning</a></h3>
+<h3><a href="https://github.com/ArBaghel/Machine-Learning"> Machine Learning</a></h3>
 <p>A curated collection of ML algorithms and projects — from regression and classification to clustering and ensemble methods. Each implementation is clean, well-commented and backed by Jupyter notebooks.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
@@ -190,7 +190,7 @@ class DataScientist:
 <tr>
 
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ArBaghel/Exploratory-Data-Analysis">📊 Exploratory Data Analysis</a></h3>
+<h3><a href="https://github.com/ArBaghel/Exploratory-Data-Analysis"> Exploratory Data Analysis</a></h3>
 <p>End-to-end EDA projects uncovering hidden patterns, trends, and insights from real-world datasets using statistical analysis and rich visualizations to support data-driven decision making.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
@@ -204,7 +204,7 @@ class DataScientist:
 </td>
 
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ArBaghel/LeetCode">🟡 LeetCode Solutions</a></h3>
+<h3><a href="https://github.com/ArBaghel/LeetCode"> LeetCode Solutions</a></h3>
 <p>Well-structured Python solutions to LeetCode problems covering arrays, strings, dynamic programming, graphs and trees — each solution includes optimal time and space complexity analysis.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=050A18"/>
