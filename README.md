@@ -1,8 +1,16 @@
+# Aditya Singh Baghel
+
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,40:0B1E3D,80:0D3B6E,100:1565C0&height=220&section=header&text=Aditya%20Singh%20Baghel&fontSize=50&fontColor=E3F2FD&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=56&descColor=42A5F5&descSize=17"/>
 
+<br/>
+
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Data+Analytics+%26+Predictive+Modeling;Machine+Learning+%26+Deep+Learning;Computer+Vision+%E2%80%94+CNNs+%26+OpenCV;B.Tech+CS+%E2%80%94+Data+Analytics+Specialization)](https://github.com/ArBaghel)
+<p align="center">
+  <a href="https://github.com/ArBaghel">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Data+Analytics+%26+Predictive+Modeling;Machine+Learning+%26+Deep+Learning;Computer+Vision+%E2%80%94+CNNs+%26+OpenCV;B.Tech+CS+%E2%80%94+Data+Analytics+Specialization" alt="Typing SVG"/>
+  </a>
+</p>
 
 <div align="center">
 
@@ -39,111 +47,70 @@ class DataScientist:
 
 <div align="center">
 
-<a href="https://github.com/ArBaghel">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=ArBaghel&show_icons=true&theme=github_dark&hide_border=true&title_color=42A5F5&icon_color=42A5F5&text_color=CDD6F4&bg_color=050A18&count_private=true"/>
-</a>&nbsp;
-<a href="https://github.com/ArBaghel">
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArBaghel&layout=donut&hide=c%2B%2B%2CJupyter%20Notebook&theme=github_dark&hide_border=true&title_color=42A5F5&text_color=CDD6F4&bg_color=050A18&langs_count=5"/>
-</a>
-
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=ArBaghel&theme=dark&hide_border=true&background=050A18&stroke=42A5F5&ring=1565C0&fire=FF6B6B&currStreakLabel=42A5F5&sideLabels=CDD6F4&dates=6E7681&currStreakNum=E3F2FD&sideNums=E3F2FD"/>
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArBaghel&theme=react-dark&hide_border=true&bg_color=050A18&color=42A5F5&line=1565C0&point=42A5F5&area=true&area_color=0D3B6E"/>
+<!-- Metric badges — served by shields.io (always reliable, no rate limits) -->
+![Followers](https://img.shields.io/github/followers/ArBaghel?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1565C0&labelColor=050A18)&nbsp;
+![Stars](https://img.shields.io/github/stars/ArBaghel?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=FFA116&labelColor=050A18)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=ArBaghel&style=for-the-badge&color=42A5F5&label=Profile+Views&base=500)
 
 </div>
+
+<br/>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img
+    width="68%"
+    src="https://streak-stats.demolab.com?user=ArBaghel&theme=dark&hide_border=true&background=050A18&stroke=1565C0&ring=42A5F5&fire=FF6B6B&currStreakLabel=42A5F5&sideLabels=CDD6F4&dates=6E7681&currStreakNum=E3F2FD&sideNums=E3F2FD&border_radius=10"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br/>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArBaghel&theme=react-dark&hide_border=true&bg_color=050A18&color=42A5F5&line=1565C0&point=42A5F5&area=true&area_color=0D3B6E&radius=8"
+    alt="Contribution Graph"
+  />
+</p>
 
 ---
 
 ## LeetCode Progress
 
-<div align="center">
+<p align="center">
+  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
+    <img
+      src="https://leetcard.jacoblin.cool/Aditya_Singh_Baghel?theme=dark&font=JetBrains+Mono&border=0&radius=12&show_rank=false&ext=heatmap"
+      width="60%"
+      alt="LeetCode Card"
+    />
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-  <img src="https://leetcard.jacoblin.cool/Aditya_Singh_Baghel?theme=dark&font=JetBrains+Mono&border=0&radius=12&show_rank=false&ext=heatmap" width="60%" alt="LeetCode Card"/>
-</a>
-
-<br/><br/>
+<br/>
 
 ### LeetCode Badges
 
+<div align="center">
+
 <table><tr>
 
-<!-- EARNED -->
+<!-- 50 Days 2024 — EARNED ✅ -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2024"/>
   </a><br/><sub><b>50 Days '24</b></sub>
 </td>
 
-<!-- PASTE NEW EARNED BADGES HERE — copy one <td> block and replace the src URL and label -->
-
-<!-- 100 Days 2024
+<!-- 100 Days 2024 — EARNED ✅ -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72" alt="100 Days 2024"/>
   </a><br/><sub><b>100 Days '24</b></sub>
 </td>
--->
-
-<!-- 50 Days 2025
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="72"/>
-  </a><br/><sub><b>50 Days '25</b></sub>
-</td>
--->
-
-<!-- 100 Days 2025
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="72"/>
-  </a><br/><sub><b>100 Days '25</b></sub>
-</td>
--->
-
-<!-- SQL 50
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/lg_sql50.png" width="72"/>
-  </a><br/><sub><b>SQL 50</b></sub>
-</td>
--->
-
-<!-- Top Interview 150
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/lg_top_interview.png" width="72"/>
-  </a><br/><sub><b>Top Interview 150</b></sub>
-</td>
--->
-
-<!-- LeetCode 75
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/lg_leetcode75.png" width="72"/>
-  </a><br/><sub><b>LeetCode 75</b></sub>
-</td>
--->
-
-<!-- Knight
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/knight.png" width="72"/>
-  </a><br/><sub><b>Knight</b></sub>
-</td>
--->
-
-<!-- Guardian
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/guardian.png" width="72"/>
-  </a><br/><sub><b>Guardian</b></sub>
-</td>
--->
 
 </tr></table>
 
@@ -274,4 +241,4 @@ class DataScientist:
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:0D3B6E,100:050A18&height=110&section=footer&text=Star%20if%20you%20found%20this%20helpful!&fontSize=15&fontColor=E3F2FD&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:0D3B6E,100:050A18&height=110&section=footer&text=Star%20if%20you%20found%20this%20helpful!&fontSize=15&fontColor=E3F2FD&animation=fadeIn&fontAlignY=65"/>
