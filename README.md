@@ -15,7 +15,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-42A5F5?style=flat-square&labelColor=050A18)](https://arbaghel.github.io/PortFolio-1/)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Download-6E40C9?style=flat-square&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Download-6E40C9?style=flat-square&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/resume1.pdf)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&labelColor=050A18)](https://leetcode.com/u/Aditya_Singh_Baghel/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel-562832296)
 
@@ -34,7 +34,7 @@ class DataScientist:
     interests  = ["Machine Learning", "Computer Vision", "Predictive Modeling"]
     stack      = ["PyTorch", "scikit-learn", "OpenCV", "Pandas", "SQL", "Tableau"]
     portfolio  = "arbaghel.github.io/PortFolio-1/"
-    resume     = "github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf"
+    resume     = "https://github.com/ArBaghel/ArBaghel/blob/main/resume1.pdf"
     goal       = "AI / Data Science internship"
 
     def current_focus(self) -> str:
@@ -234,7 +234,7 @@ class DataScientist:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel-562832296)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050A18)](https://leetcode.com/u/Aditya_Singh_Baghel/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=050A18)](https://arbaghel.github.io/PortFolio-1/)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/resume1.pdf)&nbsp;
 [![Instagram](https://img.shields.io/badge/@ar__baghel04-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050A18)](https://www.instagram.com/ar_baghel04)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050A18)](mailto:adityasinghbaghel@gmail.com)
 
