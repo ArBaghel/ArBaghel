@@ -15,7 +15,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-42A5F5?style=flat-square&labelColor=050A18)](https://arbaghel.github.io/PortFolio-1/)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Download-6E40C9?style=flat-square&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/resume1.pdf)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Download-6E40C9?style=flat-square&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&labelColor=050A18)](https://leetcode.com/u/Aditya_Singh_Baghel/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel-562832296)
 
@@ -34,7 +34,7 @@ class DataScientist:
     interests  = ["Machine Learning", "Computer Vision", "Predictive Modeling"]
     stack      = ["PyTorch", "scikit-learn", "OpenCV", "Pandas", "SQL", "Tableau"]
     portfolio  = "arbaghel.github.io/PortFolio-1/"
-    resume     = "https://github.com/ArBaghel/ArBaghel/blob/main/resume1.pdf"
+    resume     = "github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf"
     goal       = "AI / Data Science internship"
 
     def current_focus(self) -> str:
@@ -60,7 +60,7 @@ class DataScientist:
 <p align="center">
   <img
     width="68%"
-    src="https://streak-stats.demolab.com?user=ArBaghel&theme=dark&hide_border=true&background=050A18&stroke=1565C0&ring=42A5F5&fire=FF6B6B&currStreakLabel=42A5F5&sideLabels=CDD6F4&dates=6E7681&currStreakNum=E3F2FD&sideNums=E3F2FD&border_radius=10"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=ArBaghel&theme=dark&hide_border=true&background=050A18&stroke=1565C0&ring=42A5F5&fire=FF6B6B&currStreakLabel=42A5F5&sideLabels=CDD6F4&dates=6E7681&currStreakNum=E3F2FD&sideNums=E3F2FD&border_radius=10"
     alt="GitHub Streak"
   />
 </p>
@@ -98,18 +98,18 @@ class DataScientist:
 
 <table><tr>
 
-<!-- 50 Days 2026 — EARNED ✅ -->
+<!-- 50 Days 2024 — EARNED ✅ -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2024"/>
-  </a><br/><sub><b>50 Days '26</b></sub>
+  </a><br/><sub><b>50 Days '24</b></sub>
 </td>
 
-<!-- 100 Days 2026 — EARNED ✅ -->
+<!-- 100 Days 2024 — EARNED ✅ -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72" alt="100 Days 2024"/>
-  </a><br/><sub><b>100 Days '26</b></sub>
+  </a><br/><sub><b>100 Days '24</b></sub>
 </td>
 
 </tr></table>
@@ -234,7 +234,7 @@ class DataScientist:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel-562832296)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050A18)](https://leetcode.com/u/Aditya_Singh_Baghel/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=050A18)](https://arbaghel.github.io/PortFolio-1/)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/resume1.pdf)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf)&nbsp;
 [![Instagram](https://img.shields.io/badge/@ar__baghel04-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050A18)](https://www.instagram.com/ar_baghel04)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050A18)](mailto:adityasinghbaghel@gmail.com)
 
