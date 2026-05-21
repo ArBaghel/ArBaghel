@@ -102,14 +102,14 @@ class DataScientist:
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2024"/>
-  </a><br/><sub><b>50 Days '24</b></sub>
+  </a><br/><sub><b>50 Days '26</b></sub>
 </td>
 
 <!-- 100 Days 2024 — EARNED ✅ -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72" alt="100 Days 2024"/>
-  </a><br/><sub><b>100 Days '24</b></sub>
+  </a><br/><sub><b>100 Days '26</b></sub>
 </td>
 
 </tr></table>
