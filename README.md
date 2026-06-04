@@ -48,7 +48,7 @@ class DataScientist:
 <div align="center">
 
 <!-- Metric badges — served by shields.io (always reliable, no rate limits) -->
-![Followers](https://img.shields.io/github/followers/ArBaghel?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1565C0&labelColor=050A18)&nbsp;
+<!--[Followers](https://img.shields.io/github/followers/ArBaghel?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1565C0&labelColor=050A18)&nbsp;-->
 ![Stars](https://img.shields.io/github/stars/ArBaghel?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=FFA116&labelColor=050A18)&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=ArBaghel&style=for-the-badge&color=42A5F5&label=Profile+Views&base=500)
 
