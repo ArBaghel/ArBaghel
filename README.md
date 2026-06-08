@@ -231,7 +231,7 @@ class DataScientist:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel-562832296)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050A18)](https://leetcode.com/u/Aditya_Singh_Baghel/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=050A18)](https://arbaghel.github.io/PortFolio-1/)&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf)&nbsp;
