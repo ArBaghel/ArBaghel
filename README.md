@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-42A5F5?style=flat-square&labelColor=050A18)](https://arbaghel.github.io/PortFolio-1/)&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-Download-6E40C9?style=flat-square&labelColor=050A18)](https://github.com/ArBaghel/ArBaghel/blob/main/Aditya_Singh_Baghel_CV.pdf)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&labelColor=050A18)](https://leetcode.com/u/Aditya_Singh_Baghel/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel-562832296)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=050A18)](https://www.linkedin.com/in/aditya-singh-baghel)
 
 </div>
 
