@@ -112,6 +112,13 @@ class DataScientist:
   </a><br/><sub><b>100 Days '26</b></sub>
 </td>
 
+<!-- Pandas Badge — EARNED ✅ -->
+<td align="center" width="110">
+  <a href="https://leetcode.com/u/AdityaBAghel2004/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/pandas.gif" width="72" alt="Pandas Badge"/>
+  </a><br/><sub><b>Pandas</b></sub>
+</td>
+
 </tr></table>
 
 </div>
