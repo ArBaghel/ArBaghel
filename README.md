@@ -105,6 +105,13 @@ class DataScientist:
   </a><br/><sub><b>50 Days '26</b></sub>
 </td>
 
+<!-- Pandas Badge — EARNED ✅ -->
+<td align="center" width="110">
+  <a href="https://leetcode.com/u/AdityaBAghel2004/">
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" width="72" alt="Pandas Badge"/>
+  </a><br/><sub><b>Pandas</b></sub>
+</td>
+
 <!-- 100 Days 2024 — EARNED ✅ -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/Aditya_Singh_Baghel/">
@@ -112,12 +119,6 @@ class DataScientist:
   </a><br/><sub><b>100 Days '26</b></sub>
 </td>
 
-<!-- Pandas Badge — EARNED ✅ -->
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AdityaBAghel2004/">
-    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" width="72" alt="Pandas Badge"/>
-  </a><br/><sub><b>Pandas</b></sub>
-</td>
 
 </tr></table>
 
