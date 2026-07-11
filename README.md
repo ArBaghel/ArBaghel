@@ -115,7 +115,7 @@ class DataScientist:
 <!-- Pandas Badge — EARNED ✅ -->
 <td align="center" width="110">
   <a href="https://leetcode.com/u/AdityaBAghel2004/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/pandas.gif" width="72" alt="Pandas Badge"/>
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" width="72" alt="Pandas Badge"/>
   </a><br/><sub><b>Pandas</b></sub>
 </td>
 
